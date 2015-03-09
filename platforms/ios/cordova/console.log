@@ -1,54 +1,12 @@
-2015-03-08 22:57:49.587 software[32361:267376] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/26F943B2-D028-475C-80A6-BEC7AE5158D1/data/Containers/Data/Application/9BB1ACB6-1971-4FE2-B6CD-9BE628F31DD8/Library/Cookies/Cookies.binarycookies
-2015-03-08 22:57:49.750 software[32361:267376] Apache Cordova native platform version 3.8.0 is starting.
-2015-03-08 22:57:49.751 software[32361:267376] Multi-tasking -> Device: YES, App: YES
-2015-03-08 22:57:49.754 software[32361:267376] Unlimited access to network resources
-2015-03-08 22:57:50.180 software[32361:267376] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-03-08 22:57:50.180 software[32361:267376] [CDVTimer][keyboard] 0.231028ms
-2015-03-08 22:57:50.180 software[32361:267376] [CDVTimer][TotalPluginStartup] 0.506997ms
-2015-03-08 22:57:51.375 software[32361:267376] Resetting plugins due to page load.
-2015-03-08 22:57:51.678 software[32361:267376] Finished load of: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/26F943B2-D028-475C-80A6-BEC7AE5158D1/data/Containers/Bundle/Application/25929D28-A89A-4ACA-90EA-CCCDF9BB8F5F/software.app/www/index.html#/tab/servicio
-2015-03-08 22:57:51.948 software[32361:267376] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-03-08 22:57:51.948 software[32361:267376] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-03-08 22:57:51.949 software[32361:267376] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["Device205563151","Device","getDeviceInfo",[]]
-2015-03-08 22:58:53.359 software[32552:269192] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/26F943B2-D028-475C-80A6-BEC7AE5158D1/data/Containers/Data/Application/B872EB07-D7A2-42C1-9342-D360D6EB60F9/Library/Cookies/Cookies.binarycookies
-2015-03-08 22:58:53.508 software[32552:269192] Apache Cordova native platform version 3.8.0 is starting.
-2015-03-08 22:58:53.509 software[32552:269192] Multi-tasking -> Device: YES, App: YES
-2015-03-08 22:58:53.512 software[32552:269192] Unlimited access to network resources
-2015-03-08 22:58:53.841 software[32552:269192] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-03-08 22:58:53.841 software[32552:269192] [CDVTimer][keyboard] 0.227988ms
-2015-03-08 22:58:53.841 software[32552:269192] [CDVTimer][TotalPluginStartup] 0.452995ms
-2015-03-08 22:58:54.071 software[32552:269192] Resetting plugins due to page load.
-2015-03-08 22:58:54.360 software[32552:269192] Finished load of: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/26F943B2-D028-475C-80A6-BEC7AE5158D1/data/Containers/Bundle/Application/C2CB49F3-2E1F-400C-9B34-3147A230C9F3/software.app/www/index.html#/tab/servicio
-2015-03-08 22:58:54.570 software[32552:269192] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-03-08 22:58:54.570 software[32552:269192] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-03-08 22:58:54.570 software[32552:269192] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["Device1892297248","Device","getDeviceInfo",[]]
-2015-03-08 22:59:24.704 software[32552:269192] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
-2015-03-08 22:59:24.705 software[32552:269192] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-03-08 22:59:24.705 software[32552:269192] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["INVALID","Keyboard","close",[]]
-2015-03-08 22:59:25.581 software[32552:269192] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
-2015-03-08 22:59:25.581 software[32552:269192] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-03-08 22:59:25.582 software[32552:269192] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["INVALID","Keyboard","close",[]]
-2015-03-08 23:02:37.417 software[32733:271219] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/7DC4B6EB-56AE-415E-B49F-514235FE0997/data/Containers/Data/Application/6E51019C-6D00-489E-9EEC-C6BC733108D5/Library/Cookies/Cookies.binarycookies
-2015-03-08 23:02:37.760 software[32733:271219] Apache Cordova native platform version 3.8.0 is starting.
-2015-03-08 23:02:37.761 software[32733:271219] Multi-tasking -> Device: YES, App: YES
-2015-03-08 23:02:37.766 software[32733:271219] Unlimited access to network resources
-2015-03-08 23:02:38.274 software[32733:271219] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-03-08 23:02:38.275 software[32733:271219] [CDVTimer][keyboard] 0.277996ms
-2015-03-08 23:02:38.275 software[32733:271219] [CDVTimer][TotalPluginStartup] 0.604033ms
-2015-03-08 23:02:39.468 software[32733:271219] Resetting plugins due to page load.
-2015-03-08 23:02:39.713 software[32733:271219] Finished load of: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/7DC4B6EB-56AE-415E-B49F-514235FE0997/data/Containers/Bundle/Application/2EA96D03-EA73-4739-A047-98A9565BFFE8/software.app/www/index.html#/tab/servicio
-2015-03-08 23:02:39.873 software[32733:271219] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-03-08 23:02:39.873 software[32733:271219] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-03-08 23:02:39.873 software[32733:271219] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["Device339407959","Device","getDeviceInfo",[]]
-2015-03-08 23:07:34.963 software[32997:273775] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/AC2748E1-D410-4B8A-B5CC-121B2D51E47E/data/Containers/Data/Application/9FADCF68-B3AA-4546-A771-BD4AA755751D/Library/Cookies/Cookies.binarycookies
-2015-03-08 23:07:35.162 software[32997:273775] Apache Cordova native platform version 3.8.0 is starting.
-2015-03-08 23:07:35.163 software[32997:273775] Multi-tasking -> Device: YES, App: YES
-2015-03-08 23:07:35.170 software[32997:273775] Unlimited access to network resources
-2015-03-08 23:07:35.609 software[32997:273775] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-03-08 23:07:35.609 software[32997:273775] [CDVTimer][keyboard] 0.269949ms
-2015-03-08 23:07:35.609 software[32997:273775] [CDVTimer][TotalPluginStartup] 0.636041ms
-2015-03-08 23:07:37.468 software[32997:273775] Resetting plugins due to page load.
-2015-03-08 23:07:38.182 software[32997:273775] Finished load of: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/AC2748E1-D410-4B8A-B5CC-121B2D51E47E/data/Containers/Bundle/Application/D0D92A44-FEC0-4984-B190-714CED7AFC66/software.app/www/index.html#/tab/servicio
-2015-03-08 23:07:38.531 software[32997:273775] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-03-08 23:07:38.531 software[32997:273775] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-03-08 23:07:38.532 software[32997:273775] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["Device1575545465","Device","getDeviceInfo",[]]
+2015-03-09 15:22:30.039 software[2535:69402] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/26F943B2-D028-475C-80A6-BEC7AE5158D1/data/Containers/Data/Application/87BC442D-669F-4681-8CC4-353ACC6B6E97/Library/Cookies/Cookies.binarycookies
+2015-03-09 15:22:30.469 software[2535:69402] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-09 15:22:30.469 software[2535:69402] Multi-tasking -> Device: YES, App: YES
+2015-03-09 15:22:30.496 software[2535:69402] Unlimited access to network resources
+2015-03-09 15:22:31.233 software[2535:69402] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-03-09 15:22:31.234 software[2535:69402] [CDVTimer][keyboard] 0.295997ms
+2015-03-09 15:22:31.234 software[2535:69402] [CDVTimer][TotalPluginStartup] 0.608981ms
+2015-03-09 15:22:31.815 software[2535:69402] Resetting plugins due to page load.
+2015-03-09 15:22:32.248 software[2535:69402] Finished load of: file:///Users/felipelondono/Library/Developer/CoreSimulator/Devices/26F943B2-D028-475C-80A6-BEC7AE5158D1/data/Containers/Bundle/Application/239B481B-8948-4DEB-AF0F-34D9C501B795/software.app/www/index.html#/tab/servicio
+2015-03-09 15:22:32.479 software[2535:69402] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-03-09 15:22:32.480 software[2535:69402] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-09 15:22:32.480 software[2535:69402] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["Device1900293659","Device","getDeviceInfo",[]]
