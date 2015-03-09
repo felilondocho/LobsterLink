@@ -1,0 +1,24 @@
+<!--
+    Este html es el contenido del tab upload, donde
+    el usuario puede subir una receta a la base de datos.
+    
+    Las funciones que tienen estos tabs estan en controller.js
+-->
+
+<ion-view view-title="Upload">
+  <ion-content>
+    <form ng-submit="processForm(receta)">
+      <label class="item item-input"> <!-- Campo para añadir el nombre de la receta -->
+        <input type="text" ng-model="receta.nombre" placeholder="Nombre de tu receta">
+      </label>
+    	<label class="item item-input item-stacked-label"><!-- Campo para añadir el procedimiento de la receta -->
+    		<span class="input-label">Ingresa tu receta</span>
+    		<textarea  ng-model="receta.recetatexto" rows="8" cols="10">
+    		</textarea>
+    	</label>
+      <button type="submit" class="button button-positive" value="enviar">
+    		UPLOAD <!-- Boton para subir la receta a la base de datos -->
+  	 </button>
+   </form>
+  </ion-content>
+</ion-view>
