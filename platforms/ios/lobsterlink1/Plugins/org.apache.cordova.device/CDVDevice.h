@@ -16,11 +16,15 @@
  specific language governing permissions and limitations
  under the License.
  */
-//
-// Prefix header for all source files of the 'software' target in the 'software' project
-//
 
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-    #import <UIKit/UIKit.h>
-#endif
+#import <UIKit/UIKit.h>
+#import <Cordova/CDVPlugin.h>
+
+@interface CDVDevice : CDVPlugin
+{}
+
++ (NSString*)cordovaVersion;
+
+- (void)getDeviceInfo:(CDVInvokedUrlCommand*)command;
+
+@end

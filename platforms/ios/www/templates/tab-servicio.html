@@ -5,23 +5,21 @@
     
     Las funciones que tienen estos tabs estan en controller.js
 -->
-
 <ion-view view-title="Recetas">
   <ion-content class="padding">
-  <ion-refresher pulling-text="Pull to refresh" on-refresh="doRefresh()"> 
-  <!-- funcion de ionic para hacer refresh -->
-  </ion-refresher>
+  <ion-refresher pulling-text="Pull to refresh" on-refresh="doRefresh()">
+    <!-- funcion de ionic para hacer refresh -->
+    </ion-refresher>
   	<ion-list ng-repeat="x in servicio">
-  		<ion-item>
-      <div class="item item-text-wrap">
+    <ion-item>
+
         <!-- Retornamos las recetas -->
-    		<h1>{{ x.nombre_receta }}</h1>          
-    		</div>
-        <div class="item item-text-wrap">
+        <h1>{{ x.nombre_receta }}</h1>          
+
           <!-- con su nombre y su preparacion -->
-    		  <h3>Preparacion: {{x.recetatexto}}</h3> 
-        </div>   
-		</ion-item>
+          <h3>Preparacion: {{x.recetatexto}}</h3> 
+
+    </ion-item>
   	</ion-list>
   </ion-content>
 </ion-view>

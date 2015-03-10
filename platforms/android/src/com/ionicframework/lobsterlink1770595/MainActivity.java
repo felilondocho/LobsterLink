@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.ionicframework.software783319;
+package com.ionicframework.lobsterlink1770595;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

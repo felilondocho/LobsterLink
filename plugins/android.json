@@ -23,13 +23,13 @@
     },
     "installed_plugins": {
         "com.ionic.keyboard": {
-            "PACKAGE_NAME": "com.ionicframework.software783319"
+            "PACKAGE_NAME": "com.ionicframework.lobsterlink1770595"
         },
         "org.apache.cordova.console": {
-            "PACKAGE_NAME": "com.ionicframework.software783319"
+            "PACKAGE_NAME": "com.ionicframework.lobsterlink1770595"
         },
         "org.apache.cordova.device": {
-            "PACKAGE_NAME": "com.ionicframework.software783319"
+            "PACKAGE_NAME": "com.ionicframework.lobsterlink1770595"
         }
     },
     "dependent_plugins": {}
