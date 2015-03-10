@@ -12,13 +12,14 @@
     </ion-refresher>
   	<ion-list ng-repeat="x in servicio">
     <ion-item>
-
+        <div class="item item-text-wrap">
         <!-- Retornamos las recetas -->
-        <h1>{{ x.nombre_receta }}</h1>          
-
+        <h1>{{ x.nombre_receta }}</h1>   
+        </div>       
+          <div class="item item-text-wrap">
           <!-- con su nombre y su preparacion -->
           <h3>Preparacion: {{x.recetatexto}}</h3> 
-
+        </div>
     </ion-item>
   	</ion-list>
   </ion-content>
