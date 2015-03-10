@@ -14,8 +14,11 @@
   	<ion-list ng-repeat="x in servicio">
   		<ion-item>
     		<h1>{{ x.nombre_receta }}</h1>            <!-- Retornamos las recetas -->
-    		<br>                                      <!-- con su nombre y su preparacion -->
-    		<p>Preparacion: {{x.recetatexto}}</p>     
+    		<br>
+        <div class="item item-text-wrap">
+          <!-- con su nombre y su preparacion -->
+    		  <p>Preparacion: {{x.recetatexto}}</p> 
+        </div>    
 		</ion-item>
   	</ion-list>
   </ion-content>
